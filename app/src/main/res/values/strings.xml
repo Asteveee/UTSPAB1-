@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BelajarRelative</string>
+    <string-array name="spinner">
+        <item>Jalur Pendaftaran</item>
+        <item>Tes tertulis</item>
+        <item>Jalur Tanpa Tes</item>
+        <item>Ujian Saringan Masuk</item>
+    </string-array>
+</resources>
